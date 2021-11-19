@@ -1,6 +1,6 @@
 dependencies:
 - name: generic-template
   repository: https://raw.githubusercontent.com/eliteGoblin/helm_repo/master/
-  version: 0.0.1
-digest: sha256:ec984e5d6320207b1a2c3e1940636053990e3ae2f61ce86079ef9350bafa13e6
-generated: "2021-11-20T08:38:34.343492238+11:00"
+  version: 0.0.2
+digest: sha256:ce8b8ee20275bd0d236b217912aa440cba595f8e394b6f1b6722da349d324efb
+generated: "2021-11-20T08:57:12.587929891+11:00"
