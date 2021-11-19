@@ -1,4 +1,3 @@
-
 service:
   type: ClusterIP
   port: 8282

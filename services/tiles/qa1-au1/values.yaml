@@ -1,3 +1,6 @@
+generic-template:
+  version: "1.2.4"
+
 service:
   type: ClusterIP
   port: 8081
