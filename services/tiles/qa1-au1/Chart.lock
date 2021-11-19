@@ -1,0 +1,6 @@
+dependencies:
+- name: generic-template
+  repository: file://../../generic_template
+  version: 0.0.1
+digest: sha256:5bdc52de288b1fbe3a198cc61233423df981aa321cf6eb2f4b82750e057be660
+generated: "2021-11-20T07:56:30.880058864+11:00"
